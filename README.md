@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React for more deep**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & Wordpress**
 
 - 📫 How to reach me **aminakbari.dev@gmail.com**
 
