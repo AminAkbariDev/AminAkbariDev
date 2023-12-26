@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminakbaridev&label=Profile%20views&color=0e75b6&style=flat" alt="aminakbaridev" /> </p>
 
-- 🌱 I’m currently learning **React for more deep**
+- 🌱 Front-end Developer
 
-- 💬 Ask me about **React & Wordpress**
+- 💬 Ask me about **Anything JS**
 
 - 📫 How to reach me **aminakbari.dev@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
